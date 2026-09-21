@@ -1,31 +1,6 @@
 {
   "mods": [
     {
-      "author": "Jollyname",
-      "repo": "StellarDrive-JollyDecorations",
-      "metadata": "Mod"
-    },
-    {
-      "author": "elytrapro2000",
-      "repo": "stellarDriveFovMod",
-      "metadata": "stellarDriveFovMod"
-    },
-    {
-      "author": "jollyname",
-      "repo": "StellarDrive-HardcoreMod",
-      "metadata": "Mod"
-    },
-    {
-      "author": "jollyname",
-      "repo": "StellarDrive-SprintMod",
-      "metadata": "Mod"
-    },
-    {
-      "author": "jollyname",
-      "repo": "StellarDrive-AutoSaveMod",
-      "metadata": "Mod"
-    },
-    {
       "author": "GSQ12345",
       "repo": "StellarDrive-FPS-shower-mod",
       "metadata": "Mod"
