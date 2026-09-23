@@ -7,7 +7,22 @@
     },
     {
       "author": "Krunk-theduck",
+      "repo": "SDModKit",
+      "metadata": "Mods"
+    },
+    {
+      "author": "Krunk-theduck",
+      "repo": "StellarDriveModManager",
+      "metadata": "Mods"
+    },
+    {
+      "author": "Krunk-theduck",
       "repo": "StellarUnlock",
+      "metadata": "Mods"
+    },
+    {
+      "author": "Krunk-theduck",
+      "repo": "StellarDriveItemLines",
       "metadata": "Mods"
     },
     {
@@ -15,10 +30,5 @@
       "repo": "StellarDriveElectrolyzer",
       "metadata": "Mods"
     },
-    {
-      "author": "Krunk-theduck",
-      "repo": "SDModKit",
-      "metadata": "Mods"
-    }
   ]
 }
